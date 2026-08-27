@@ -1,1 +1,1 @@
-PUBLI STATIC
+PUBLI STATIC void main
